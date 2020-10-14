@@ -43,7 +43,6 @@
               tout le soutien qu'elles méritent. Les techniques avancées sont employées pour assurer leur
               survie, tout en respectant le cycle de vie des abeilles. <br>
               Mathias éleve ses propres reines afin de favoriser le développement d'une Abeille la plus adaptée à son environnement.
-                      
             </p>
           </div>
         </div>

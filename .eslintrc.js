@@ -5,6 +5,7 @@ module.exports = {
   },
   extends: [
     'plugin:vue/vue3-recommended',
+    'plugin:json/recommended',
   ],
   parserOptions: {
     ecmaVersion: 2020,

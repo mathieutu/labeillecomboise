@@ -6,9 +6,9 @@
           Nos Miels
         </h2>
         <p class="text-xl italic leading-7 text-gray-500">
-         Attachés à notre région, nos ruchers se situent jusqu'à une heure autour de notre exploitation, en prenant soin de selectionner 
-         des secteurs les plus purs possibles. Nous transhumons nos ruches au gré des saisons et des floraisons, d'avril a juillet, afin 
-         de vous offrir des miesl variés et de qualité.
+          Attachés à notre région, nos ruchers se situent jusqu'à une heure autour de notre exploitation, en prenant soin de selectionner
+          des secteurs les plus purs possibles. Nous transhumons nos ruches au gré des saisons et des floraisons, d'avril a juillet, afin
+          de vous offrir des miel variés et de qualité.
         </p>
       </div>
       <div class="lg:col-span-2">
