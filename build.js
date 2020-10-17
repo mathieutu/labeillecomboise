@@ -17,6 +17,7 @@ const main = async () => {
     },
   })
 
+  console.info('📝 Generating page...')
   const { createApp } = require(tmpDir)
 
   const content = await renderer.renderToString(createApp())
@@ -30,7 +31,7 @@ const main = async () => {
 
   rmdirSync(tmpDir, { recursive: true })
 
-  console.log('🎉 Page generated!')
+  console.info('🎉 Page generated!')
   process.exit()
 }
 

@@ -48,7 +48,7 @@ export default defineComponent({
     const links = [
       { title: 'L\'abeille Comboise', link: '#abeille' },
       { title: 'Produits', link: '#produits' },
-      { title: 'Distributeurs', link: '#distributeurss' },
+      { title: 'Distributeurs', link: '#distributeurs' },
       { title: 'Contact', link: '#contact' },
     ]
     return {

@@ -139,7 +139,7 @@
 import DistributeursMap from './DistributeursMap.vue'
 import distributeurs from './data/distributeurs'
 
-import { reactive, watchEffect } from 'vue'
+import { reactive } from 'vue'
 
 export default {
   name: 'Distributeurs',
