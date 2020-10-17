@@ -54,7 +54,7 @@
 </template>
 <script>
 
-import produits from './catalogue/autres-produits.json'
+import produits from './data/autres-produits.json'
 
 export default {
   name: 'AutresProduits',

@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="fixed top-0 z-30 w-full transition-colors duration-500 ease-in-out hidden md:block px-10 text-sm"
+    class="fixed top-0 z-50 w-full transition-colors duration-500 ease-in-out hidden md:block px-10 text-sm"
     :class="showHeader ? 'bg-white text-gray-600 shadow' : 'text-orange-200'"
   >
     <div class="flex items-center justify-between w-full py-2 mx-auto mt-0">
@@ -48,6 +48,7 @@ export default defineComponent({
     const links = [
       { title: 'L\'abeille Comboise', link: '#abeille' },
       { title: 'Produits', link: '#produits' },
+      { title: 'Distributeurs', link: '#distributeurss' },
       { title: 'Contact', link: '#contact' },
     ]
     return {

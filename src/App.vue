@@ -4,6 +4,7 @@
     <SimpleHero />
     <Abeille />
     <Produits />
+    <Distributeurs />
     <WaveBottom />
     <Contact />
     <!--<AppFooter />-->
@@ -20,9 +21,11 @@ import Produits from './Produits.vue'
 import WaveBottom from './WaveBottom.vue'
 import Contact from './Contact.vue'
 import Swal from 'sweetalert2'
+import Distributeurs from './Distributeurs.vue'
 
 export default defineComponent({
   components: {
+    Distributeurs,
     // AppFooter,
     Contact,
     WaveBottom,

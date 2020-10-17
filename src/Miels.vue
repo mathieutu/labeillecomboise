@@ -55,7 +55,7 @@
   </div>
 </template>
 <script>
-import produits from './catalogue/miels.json'
+import produits from './data/miels.json'
 
 export default {
   name: 'Miels',
