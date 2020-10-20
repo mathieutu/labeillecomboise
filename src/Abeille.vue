@@ -14,9 +14,9 @@
             Mathias Chicaud, Apiculteur au coeur des Bauges
           </h2>
           <p class="text-gray-600">
-            Ingénieur de formation, Mathias s'est lancé dans l'aventure apicole en commencant par une solide formation théorique et 
-            a travaillé quelques temps auprès d'apiculteurs professionels pour apprendre les rudiments de ce métier passionant. 
-            en 2019, l'Abeille Comboise (en référence aux habitantes de Bellecombe en Bauges) est créee...
+            Ingénieur de formation, je me suis lancé dans l'aventure apicole en commencant par une solide formation théorique et 
+            en travaillant quelques temps auprès d'apiculteurs professionnels pour apprendre les rudiments de ce métier passionant. 
+            En 2019, l'Abeille Comboise (en référence aux habitantes de Bellecombe en Bauges) est créee...
           </p>
         </div>
         <div class="flex items-center w-full p-6 sm:w-1/2">
@@ -36,13 +36,13 @@
         <div class="w-full p-6 mt-6 sm:w-1/2">
           <div class="align-middle">
             <h3 class="mb-3 text-2xl font-bold leading-none text-gray-800 sm:text-3xl">
-              Pour une apiculture plus proche des abeilles et du consomateur
+              Pour une apiculture plus proche des abeilles et du consommateur
             </h3>
             <p class="text-gray-600">
-              Située au pied du Roc des Boeufs, l'exploitation est aux plus proche des colonies pour leur apporter 
-              tout le soutien qu'elles méritent. Les techniques avancées sont employées pour assurer leur
+              Située au pied du Roc des Boeufs, mon exploitation est aux plus proche des colonies pour leur apporter 
+              tout le soutien qu'elles méritent. Des techniques avancées sont employées pour assurer leur
               survie, tout en respectant le cycle de vie des abeilles. <br>
-              Mathias éleve ses propres reines afin de favoriser le développement d'une Abeille la plus adaptée à son environnement.
+              J' élève mes propres reines afin de favoriser le développement d'une Abeille la plus adaptée à son environnement.
             </p>
           </div>
         </div>
