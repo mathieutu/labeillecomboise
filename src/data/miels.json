@@ -12,7 +12,7 @@
     "titre": "Miel de Fleurs",
     "provenance": "Pays d’Entrelacs",
     "prix": 7.00,
-    "description": "Ce miel lumineux et puissant est issu de la première récolte de la saison. Issu essentiellement du nectar de Pissenlit et d’Acacia, il est souvent considéré comme une valeur sûre.",
+    "description": "Ce miel lumineux et sucré est issu de la première récolte de la saison. Issu essentiellement du nectar de Pissenlit et d’Acacia, il est souvent considéré comme une valeur sûre. Il restera liquide longtemps.",
     "color": "#ad9866",
     "quantite": "500g",
     "img": "fleurs.png"
@@ -21,7 +21,7 @@
     "titre": "Miel de Tilleul",
     "provenance": "Pays de Chautagne",
     "prix": 8.00,
-    "description": "Ce miel surprenant à teinte jaune a également ses amateurs, puisque l’odeur qu’il dégage ainsi que son goût sont mentholés. Idéal pour sucrer sa tisane (attention, attendre que la température de la tisane soit buvable pour verser le miel sans quoi celui-ci perdra ses propriétés !)",
+    "description": "Ce miel surprenant à teinte jaune a également ses amateurs puisque l’odeur qu’il dégage ainsi que son goût sont mentholés. Idéal pour sucrer sa tisane (attention, attendre que la température de la tisane soit buvable pour verser le miel sans quoi celui-ci perdra ses propriétés !)",
     "color": "#61827b",
     "img": "tilleul.png",
     "quantite": "500g"
@@ -50,7 +50,7 @@
     "titre": "Miel de Forêt \"2020\"",
     "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
     "prix": 8.00,
-    "description": "En plus de son goût caramel de miellat d’Épicéa, le palais expérimenté saura reconnaître le goût typique du miel de Châtaigner qui compose ce produit.",
+    "description": "Ce miel est le plus corsé de la gamme cette année. Un alliage équilibré entre le miellat d'épicéa et la fine amertume du chataîgnier.",
     "color": "#486455",
     "img": "foret-2020.png",
     "quantite": "500g"
@@ -59,7 +59,7 @@
     "titre": "Miel de Montagne",
     "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
     "prix": 8.50,
-    "description": "Ce miel au goût fruité rassemble les nectars issus de centaurées, épilobes, ronces et de nombreuses variétés endémiques. Si la saison est propice, du miellat peut également être butiné. C’est la dernière récolte de l’année, où la population de la colonie est à son apogée.",
+    "description": "Ce miel au goût caramélisé rassemble les nectars des prairies baujues. Si la saison est propice, du miellat peut également être butiné. C’est la dernière récolte de l’année, où la population de la colonie est à son apogée.",
     "color": "#6e8760",
     "quantite": "500g",
     "img": "montagne.png"
@@ -69,7 +69,7 @@
     "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
     "prix": 9.00,
     "plusEnStock": true,
-    "description": "Ce miel rond et rare est issu de ruches butinant au-delà de 1200m d’altitude, généralement entourées de pâturages. Ce miel est constitué d’essence florales telles que le thym sauvage, le serpolet ou encore le rhododendron.",
+    "description": "Ce miel aux arômes riches et rares étonnera agréablement le palet. Il est issu de ruches butinant au-delà de 1200m d’altitude, et entourées d'alpages. ",
     "color": "#285b8a",
     "img": "haute-montagne.png",
     "quantite": "500g"
