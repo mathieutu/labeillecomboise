@@ -3,8 +3,8 @@
     "nom":"Epicerie de la poste",
     "url":"#",
     "adresse":"65 Place de la Mairie, 74320 Sévrier",
-    "tel":"0123456789",
-    "horaires":"Ouvert le lundi et mardi",
+    "tel":"04 50 23 79 01",
+    "horaires":"OUvert du Mardi au Samedi",
     "latLng":[
       45.8639,
       6.14104
@@ -14,7 +14,7 @@
     "nom":"L'abeille Comboise",
     "url":"/",
     "adresse":"407 chemin du Solliet, 73340 Bellecombe-en-Bauges",
-    "horaires":"Tous les jours de 10h à 18h",
+    "horaires":"sur rendez-vous",
     "latLng":[
       45.739602,
       6.159008
@@ -25,17 +25,18 @@
     "url":"https://www.lesdouceursdesbauges.com/",
     "tel":"0767120428",
     "adresse":"1133 Route de Leschaux, 73340 Bellecombe-en-Bauges",
-    "horaires":"Tous les jours de 10h à 18h",
+    "horaires":"du Mardi au Dimanche",
     "latLng":[
-      45.737248,
-      6.142249
+      45.744541,
+      6.134010
+      
     ]
   },
   {
     "nom":"Le Petit Local",
     "tel":"0987760259",
     "adresse":"Place Jean Moulin, 73340 Lescheraines",
-    "horaires":"Tous les jours de 10h à 18h",
+    "horaires":"du Mardi au Dimanche",
     "latLng":[
       45.713820,
       6.105060
