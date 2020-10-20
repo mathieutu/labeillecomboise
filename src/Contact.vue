@@ -3,13 +3,13 @@
     <h2
       class="ml-20 text-4xl font-extrabold leading-8 tracking-tight text-red-50 sm:text-6xl sm:leading-9 font-hand"
     >
-      Contactez-nous
+      Contactez-moi
     </h2>
     <div class="w-full ">
       <div class="relative flex flex-col justify-around gap-10 px-10 py-16 mx-auto md:flex-row max-w-7xl">
         <div class="max-w-sm mx-auto">
           <p class="text-lg leading-6 text-red-200">
-            Si vous avez des questions, envie de goûter sur place nos miels, ou si vous souhaitez passer commande&nbsp;!
+            Si vous avez des questions, envie de goûter sur place mes miels, ou si vous souhaitez passer commande&nbsp;!
           </p>
           <dl class="mt-8 text-base leading-6 text-red-200">
             <div>
