@@ -20,7 +20,9 @@
           </p>
         </div>
         <div class="flex items-center w-full p-6 sm:w-1/2">
-          <img class="object-cover w-full mx-auto rounded-lg shadow-lg sm:h-64 " src=" " alt="">
+          <img class="object-cover w-full mx-auto rounded-lg shadow-lg sm:h-64 " 
+          src="public/img/apiculteur.jpg " 
+          alt="photo apiculteur">
         </div>
       </div>
 
