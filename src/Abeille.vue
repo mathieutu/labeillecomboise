@@ -29,7 +29,7 @@
         <div class="flex items-center w-full p-6 mt-6 sm:w-1/2 ">
           <img
             class="object-cover w-full mx-auto rounded-lg shadow-lg sm:h-64"
-            src="https://www.lesbauges.com/medias/images/info_pages/multitailles/640x480_bellecombe-en-bauges-1159.jpg"
+            src=" "
             alt="Photo de Bellecombe en bauge"
           >
         </div>
