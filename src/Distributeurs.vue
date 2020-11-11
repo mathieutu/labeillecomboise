@@ -128,6 +128,7 @@
           </ul>
           <DistributeursMap
             :distributeurIndex="distributeurIndex"
+            :distributeurs="distributeurs"
             @distributeurSelected="({type, index}) => handleDistributeurSelection(type, index)"
           />
         </div>
@@ -163,7 +164,7 @@ export default {
     }
 
     return {
-      distributeurs,
+      distributeurs: distributeurs.filter(({ masquer }) => !masquer),
       distributeurIndex,
       handleDistributeurSelection,
     }

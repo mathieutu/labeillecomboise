@@ -5,13 +5,15 @@
 <script lang="ts">
 import { defineComponent, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 
-import distributeurs from './data/distributeurs.json'
-
 export default defineComponent({
   name: 'DistributeursMap',
   props: {
     distributeurIndex: {
       type: Object,
+      required: true,
+    },
+    distributeurs: {
+      type: Array,
       required: true,
     },
   },
@@ -41,7 +43,7 @@ export default defineComponent({
   `,
       })
 
-      const markers = distributeurs.map(({ latLng }) => L.marker(latLng, { icon: markerIcon }))
+      const markers = props.distributeurs.map(({ latLng }) => L.marker(latLng, { icon: markerIcon }))
 
       const mapObject = L.map(mapRef.value, { scrollWheelZoom: false })
 

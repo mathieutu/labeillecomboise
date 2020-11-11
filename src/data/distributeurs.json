@@ -1,10 +1,10 @@
 [
   {
-    "nom":"Epicerie de la poste",
+    "nom":"Épicerie de la poste",
     "url":"#",
     "adresse":"65 Place de la Mairie, 74320 Sévrier",
     "tel":"04 50 23 79 01",
-    "horaires":"OUvert du Mardi au Samedi",
+    "horaires":"Ouvert du Mardi au Samedi",
     "latLng":[
       45.8639,
       6.14104
@@ -29,7 +29,7 @@
     "latLng":[
       45.744541,
       6.134010
-      
+
     ]
   },
   {
@@ -45,19 +45,21 @@
   {
     "nom":"Nom de la vendeuse",
     "adresse":"Place du Marché, 71250 Cluny",
-    "horaires":"Le samedi matin",
+    "horaires":"le samedi matin",
     "latLng":[
       46.4349,
       4.65705
-    ]
+    ],
+    "masquer": true
   },
   {
     "nom":"Nom de la vendeuse",
     "adresse":"Marché de Annecy le vieux",
-    "horaires":"Le samedi matin",
+    "horaires":"le samedi matin",
     "latLng":[
       45.919029,
       6.142850
-    ]
+    ],
+    "masquer": true
   }
 ]
