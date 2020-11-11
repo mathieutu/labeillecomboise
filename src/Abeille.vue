@@ -14,15 +14,17 @@
             Mathias Chicaud, Apiculteur au coeur des Bauges
           </h2>
           <p class="text-gray-600">
-            Ingénieur de formation, je me suis lancé dans l'aventure apicole en commencant par une solide formation théorique et 
-            en travaillant quelques temps auprès d'apiculteurs professionnels pour apprendre les rudiments de ce métier passionant. 
+            Ingénieur de formation, je me suis lancé dans l'aventure apicole en commencant par une solide formation théorique et
+            en travaillant quelques temps auprès d'apiculteurs professionnels pour apprendre les rudiments de ce métier passionant.
             En 2019, l'Abeille Comboise (en référence aux habitantes de Bellecombe en Bauges) est créee...
           </p>
         </div>
         <div class="flex items-center w-full p-6 sm:w-1/2">
-          <img class="object-cover w-full mx-auto rounded-lg shadow-lg sm:h-64 " 
-          src="abeille-comboise/src/apiculteur.jpg" 
-          alt="photo apiculteur">
+          <img
+            class="object-cover w-full mx-auto rounded-lg shadow-lg sm:h-64 "
+            src="/img/apiculteur.jpg"
+            alt="Photo de Mathias"
+          >
         </div>
       </div>
 
@@ -31,7 +33,7 @@
         <div class="flex items-center w-full p-6 mt-6 sm:w-1/2 ">
           <img
             class="object-cover w-full mx-auto rounded-lg shadow-lg sm:h-64"
-            src=" "
+            src="https://www.lesbauges.com/medias/images/info_pages/multitailles/640x480_bellecombe-en-bauges-1159.jpg"
             alt="Photo de Bellecombe en bauge"
           >
         </div>
@@ -41,7 +43,7 @@
               Pour une apiculture plus proche des abeilles et du consommateur
             </h3>
             <p class="text-gray-600">
-              Située au pied du Roc des Boeufs, mon exploitation est aux plus proche des colonies pour leur apporter 
+              Située au pied du Roc des Boeufs, mon exploitation est aux plus proche des colonies pour leur apporter
               tout le soutien qu'elles méritent. Des techniques avancées sont employées pour assurer leur
               survie, tout en respectant le cycle de vie des abeilles. <br>
               J' élève mes propres reines afin de favoriser le développement d'une Abeille la plus adaptée à son environnement.
