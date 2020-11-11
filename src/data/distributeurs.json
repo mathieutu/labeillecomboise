@@ -23,7 +23,7 @@
   {
     "nom":"Les douceurs des Bauges",
     "url":"https://www.lesdouceursdesbauges.com/",
-    "tel":"0767120428",
+    "tel":"07 67 12 04 28",
     "adresse":"1133 Route de Leschaux, 73340 Bellecombe-en-Bauges",
     "horaires":"du Mardi au Dimanche",
     "latLng":[
@@ -34,7 +34,8 @@
   },
   {
     "nom":"Le Petit Local",
-    "tel":"0987760259",
+    "url": "https://www.facebook.com/BreletPatricketCatherine",
+    "tel":"09 87 76 02 59",
     "adresse":"Place Jean Moulin, 73340 Lescheraines",
     "horaires":"du Mardi au Dimanche",
     "latLng":[

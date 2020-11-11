@@ -20,6 +20,7 @@ module.exports = {
       singleline: 3, multiline: { max: 1, allowFirstLine: false },
     }],
     'vue/custom-event-name-casing': 'off',
+    'vue/no-v-html': 'off',
     'no-return-assign': 'off',
     'vue/attribute-hyphenation': ['error', 'never'],
     'object-curly-newline': ['error', { consistent: true }],

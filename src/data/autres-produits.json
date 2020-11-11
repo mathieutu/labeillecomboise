@@ -2,7 +2,7 @@
   {
     "titre":" Lingots de cire",
     "prix":2,
-    "description":"`Composition : 100% Cire d’opercule. Utilisation : Cosmétiques, Cirage, BeeWraps, etc.`",
+    "description":"Composition : 100% Cire d’opercule. <br>Utilisation : Cosmétiques, Cirage, BeeWraps, etc.",
     "color":"#b79d5e",
     "quantite":"30g",
     "img":"cire.jpg"

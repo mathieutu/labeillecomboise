@@ -6,7 +6,7 @@
           Les produits de la Ruche
         </h2>
         <p class="text-xl italic leading-7 text-gray-500">
-          Fabrication maison, tout ça tout ça...
+          Les produits de la ruche à base de cire proviennent intégralement de mes hausses, où il n'y a ni couvain ni traitement.
         </p>
       </div>
       <div class="lg:col-span-2">
@@ -41,9 +41,7 @@
                     {{ produit.provenance }}
                   </p>
                 </div>
-                <p class="text-base leading-7 text-gray-500">
-                  {{ produit.description }}
-                </p>
+                <p class="text-base leading-7 text-gray-500" v-html="produit.description" />
               </div>
             </div>
           </li>
