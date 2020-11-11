@@ -15,11 +15,11 @@
         <ul class="space-y-12 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:gap-x-8">
           <li v-for="produit in produits" :key="produit.titre">
             <div class="space-y-4">
-              <div class="relative pb-2/3">
+              <div class="relative pb-full">
                 <img
                   :src="`/img/produits/${produit.img}`"
                   :alt="`Photo d'un pot de ${produit.titre}`"
-                  class="absolute object-cover object-top w-full h-full rounded-lg shadow-lg"
+                  class="absolute object-cover object-center w-full h-full rounded-lg shadow-lg"
                   :class="{'opacity-50': produit.plusEnStock}"
                 >
                 <span

@@ -6,7 +6,7 @@
     "description": "Ce miel jaune clair, au goût léger et doux, reste liquide très longtemps s’il est pur. Apprécié des enfants, il peut être utilisé pour agrémenter plats et desserts. Riche en fructose, il peut être consommé par les personnes diabétiques.",
     "color": "#a6a623",
     "quantite": "500g",
-    "img": "acacia.png"
+    "img": "acacia.jpg"
   },
   {
     "titre": "Miel de Fleurs",
@@ -15,7 +15,7 @@
     "description": "Ce miel lumineux et sucré est issu de la première récolte de la saison. Issu essentiellement du nectar de Pissenlit et d’Acacia, il est souvent considéré comme une valeur sûre. Il restera liquide longtemps.",
     "color": "#ad9866",
     "quantite": "500g",
-    "img": "fleurs.png"
+    "img": "fleurs.jpg"
   },
   {
     "titre": "Miel de Tilleul",
@@ -23,7 +23,7 @@
     "prix": 8.00,
     "description": "Ce miel surprenant à teinte jaune a également ses amateurs puisque l’odeur qu’il dégage ainsi que son goût sont mentholés. Idéal pour sucrer sa tisane (attention, attendre que la température de la tisane soit buvable pour verser le miel sans quoi celui-ci perdra ses propriétés !)",
     "color": "#61827b",
-    "img": "tilleul.png",
+    "img": "tilleul.jpg",
     "quantite": "500g"
   },
   {
@@ -33,7 +33,7 @@
     "plusEnStock": true,
     "description": "Ce miel foncé au goût corsé et amer est très prisé de certains. Il peut être une alternative au miel d’Acacia pour agrémenter les pâtisseries, tel que les fameux pains d’épices.",
     "color": "#653200",
-    "img": "chataignier.png",
+    "img": "chataignier.jpg",
     "quantite": "500g",
     "masquer": true
   },
@@ -43,7 +43,7 @@
     "prix": 8.00,
     "description": "Clair et cristallisé finement, son goût subtil et agréable est le mariage des miels du Châtaignier et du Tilleul, présents dans la même forêt. Une édition limitée !",
     "color": "#194018",
-    "img": "foret-2019.png",
+    "img": "foret-2019.jpg",
     "quantite": "500g"
   },
   {
@@ -52,7 +52,7 @@
     "prix": 8.00,
     "description": "Ce miel est le plus corsé de la gamme cette année. Un alliage équilibré entre le miellat d'épicéa et la fine amertume du chataîgnier.",
     "color": "#486455",
-    "img": "foret-2020.png",
+    "img": "foret-2020.jpg",
     "quantite": "500g"
   },
   {
@@ -62,7 +62,7 @@
     "description": "Ce miel au goût caramélisé rassemble les nectars des prairies baujues. Si la saison est propice, du miellat peut également être butiné. C’est la dernière récolte de l’année, où la population de la colonie est à son apogée.",
     "color": "#6e8760",
     "quantite": "500g",
-    "img": "montagne.png"
+    "img": "montagne.jpg"
   },
   {
     "titre": "Miel de Haute Montagne",
@@ -71,7 +71,7 @@
     "plusEnStock": true,
     "description": "Ce miel aux arômes riches et rares étonnera agréablement le palet. Il est issu de ruches butinant au-delà de 1200m d’altitude, et entourées d'alpages. ",
     "color": "#285b8a",
-    "img": "haute-montagne.png",
+    "img": "haute-montagne.jpg",
     "quantite": "500g"
   },
   {
@@ -81,7 +81,7 @@
     "plusEnStock": true,
     "description": "Un miel fort en bouche, qui Nulla quam felis, enim faucibus proin velit, ornare id pretium. Augue ultrices sed arcu condimentum vestibulum suspendisse.",
     "color": "#653200",
-    "img": "chataignier.png",
+    "img": "chataignier.jpg",
     "quantite": "500g",
     "masquer": true
   }
