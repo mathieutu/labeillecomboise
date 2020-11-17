@@ -22,5 +22,10 @@
     "eslint-plugin-json": "^2.1.2",
     "eslint-plugin-vue": "^7.1.0",
     "vite": "^1.0.0-rc.9"
+  },
+  "engines": {
+    "node": "^14.11.0",
+    "yarn": "^1.22.10"
+
   }
 }
