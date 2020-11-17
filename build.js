@@ -1,5 +1,5 @@
 const { ssrBuild, build } = require('vite')
-const { resolve } = require('path')
+const { resolve, join } = require('path')
 const { writeFileSync, rmdirSync } = require('fs')
 const renderer = require('@vue/server-renderer')
 
@@ -7,7 +7,7 @@ const main = async () => {
   const outDir = resolve(process.cwd(), 'dist')
   const tmpDir = resolve(process.cwd(), 'dist/tmp')
 
-  const clientResult = await build({ outDir })
+  const [clientResult] = await build({ outDir })
 
   await ssrBuild({
     outDir: tmpDir,
@@ -18,7 +18,7 @@ const main = async () => {
   })
 
   console.info('📝 Generating page...')
-  const { createApp } = require(tmpDir)
+  const { createApp } = require(join(tmpDir, '_assets'))
 
   const content = await renderer.renderToString(createApp())
   const indexPath = resolve(outDir, 'index.html')

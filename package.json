@@ -10,9 +10,9 @@
   "dependencies": {
     "@tailwindcss/ui": "^0.7.2",
     "leaflet": "^1.7.1",
-    "sweetalert2": "^10.10.0",
+    "sweetalert2": "^10.10.1",
     "tailwindcss": "^1.9.6",
-    "vue": "2.6.12"
+    "vue": "^3.0.2"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.2",
