@@ -15,7 +15,7 @@
           </h2>
           <p class="text-gray-600">
             Ingénieur de formation, je me suis lancé dans l'aventure apicole en commençant par une solide formation théorique et
-            en travaillant quelques temps auprès d'apiculteurs professionnels pour apprendre les rudiments de ce métier passionnant.
+            en travaillant quelque temps auprès d'apiculteurs professionnels pour apprendre les rudiments de ce métier passionnant.
             En 2019, l'Abeille Comboise (en référence aux habitantes de Bellecombe en Bauges) est créée...
           </p>
         </div>
@@ -43,7 +43,7 @@
               Pour une apiculture plus proche des abeilles et du consommateur
             </h3>
             <p class="text-gray-600">
-              Située au pied du Roc des Boeufs, mon exploitation est au plus proche des colonies pour leur apporter
+              Située au pied du Roc des Boeufs dans le massif des Bauges, mon exploitation est au plus proche des colonies pour leur apporter
               tout le soutien qu'elles méritent. Des techniques avancées sont employées pour assurer leur
               survie, tout en respectant le cycle de vie des abeilles. <br>
               J'élève mes propres reines afin de favoriser le développement d'une Abeille la plus adaptée à son environnement.
