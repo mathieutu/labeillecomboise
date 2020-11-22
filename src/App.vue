@@ -3,7 +3,7 @@
     <NavHeader />
     <SimpleHero />
     <Abeille />
-    <Produits />
+    <Boutique />
     <Distributeurs />
     <WaveBottom />
     <Contact />
@@ -17,7 +17,7 @@ import { defineComponent, onMounted } from 'vue'
 import NavHeader from './NavHeader.vue'
 import SimpleHero from './SimpleHero.vue'
 import Abeille from './Abeille.vue'
-import Produits from './Produits.vue'
+import Boutique from './Boutique.vue'
 import WaveBottom from './WaveBottom.vue'
 import Contact from './Contact.vue'
 import Swal from 'sweetalert2'
@@ -29,7 +29,7 @@ export default defineComponent({
     // AppFooter,
     Contact,
     WaveBottom,
-    Produits,
+    Boutique,
     Abeille,
     SimpleHero,
     NavHeader,

@@ -3,10 +3,12 @@
     <div class="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
       <div class="space-y-5 sm:space-y-4">
         <h2 id="autres-produits" class="text-2xl font-extrabold leading-9 tracking-tight text-gray-700 sm:text-3xl">
-          Les produits de la Ruche
+          Autres produits de la Ruche
         </h2>
         <p class="text-xl italic leading-7 text-gray-500">
-          Les produits de la ruche à base de cire proviennent intégralement de mes hausses, où il n'y a ni couvain ni traitement.
+          Les produits de la ruche à base de cire proviennent intégralement de mes hausses,
+          où il n'y a ni couvain ni traitement.<br>
+          Articles uniquement en vente directe.
         </p>
       </div>
       <div class="lg:col-span-2">
