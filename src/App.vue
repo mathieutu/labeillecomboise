@@ -66,6 +66,86 @@ html {
 <style src="sweetalert2/dist/sweetalert2.min.css"/>
 <style>
 .swal2-modal {
-    @apply rounded-lg !important;
+  @apply rounded-lg !important;
 }
+
+.snipcart-item-line,
+.snipcart-item-line__image,
+.snipcart-cart-button,
+.snipcart-form,
+.snipcart__box,
+.snipcart-cart-summary__content,
+.snipcart-input,
+.snipcart-textbox {
+  @apply rounded-lg !important;
+}
+
+.snipcart-checkbox:focus + label::before,
+.snipcart-checkbox:hover + label::before,
+.snipcart-input:focus-within,
+.snipcart-textbox--focus,
+.snipcart-shipping-rates-list-item--highlight {
+    @apply border-orange-400
+}
+
+.snipcart-checkbox:checked + label::before {
+    @apply bg-orange-400
+}
+
+.snipcart-form-radio:checked + label::before {
+    @apply bg-red-800 bg-none
+}
+
+.snipcart-typeahead__suggestions {
+    @apply mt-2 border-gray-200 rounded-lg
+}
+
+.snipcart-typeahead__suggestion--secondary {
+    @apply text-gray-400
+}
+
+.snipcart-typeahead__suggestion--powered-by-google {
+    @apply hidden !important;
+}
+
+button.snipcart-cart-button,
+div.snipcart__box--badge-highlight {
+  @apply bg-gradient-to-r from-red-800 to-orange-500 text-white
+}
+
+.snipcart-cart-button--secondary .snipcart__icon path {
+    @apply fill-current
+}
+
+.snipcart-cart-header__customer-account svg path,
+.snipcart-cart-header__count svg path,
+.snipcart-modal__close svg path,
+.snipcart-modal__header-summary svg path,
+.snipcart__icon--blue-dark path,
+.snipcart__actions--link {
+   @apply fill-current text-red-800
+}
+
+.snipcart__button--icon:active,
+.snipcart__button--icon:focus {
+    @apply border-red-800
+
+}
+
+.snipcart__button--icon {
+  @apply rounded !important;
+}
+
+.snipcart-cart-summary,
+.snipcart-cart__featured-payment-methods-title,
+.snipcart-cart__secondary-header,
+.snipcart-discount-box,
+.snipcart-modal__container,
+.snipcart-featured-payment-methods__title,
+.snipcart-cart-header,
+.snipcart-cart__content,
+.snipcart-modal {
+  @apply bg-gray-100 !important;
+}
+
 </style>

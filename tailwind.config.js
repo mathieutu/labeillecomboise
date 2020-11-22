@@ -25,4 +25,8 @@ module.exports = {
   plugins: [
     require('@tailwindcss/ui'),
   ],
+  variants: {
+    borderWidth: ['responsive', 'hover', 'focus'],
+    display: ['responsive', 'group-hover'],
+  },
 }
