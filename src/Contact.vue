@@ -84,8 +84,8 @@
                     stroke-width="2"
                   />
                 </svg>
-                <a href="mailto:contact@abeille-comboise.fr">
-                  contact@abeille-comboise.fr
+                <a href="mailto:contact@labeille-comboise.fr">
+                  contact@labeille-comboise.fr
                 </a>
               </dd>
             </div>

@@ -1,0 +1,5 @@
+@import 'sweetalert2/dist/sweetalert2.min';
+
+.swal2-modal {
+    @apply rounded-lg !important;
+}

@@ -87,7 +87,7 @@ export default {
     return {
       miels: produits.filter(({ masquer }) => !masquer).map(produit => ({
         ...produit,
-        id: slugify(produit.titre),
+        id: produit.img.replace('.jpg', ''),
       })),
     }
   },
