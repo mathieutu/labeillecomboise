@@ -28,7 +28,7 @@
               :data-item-description="miel.description"
               :data-item-image="`/img/produits/${miel.img}`"
               :data-item-weight="miel.quantite.replace('g', '')"
-              data-item-custom1-name=""
+              data-item-custom1-name="Provenance"
               data-item-custom1-type="readonly"
               :data-item-custom1-value="miel.provenance"
             >

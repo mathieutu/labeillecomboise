@@ -91,6 +91,7 @@
     @apply mt-4;
 }
 
-.snipcart-cart-summary-expanded-item__custom-fields {
+.snipcart-cart-summary-expanded-item__custom-fields,
+.snipcart-custom-field-wrapper__label {
     @apply hidden;
 }
