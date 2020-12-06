@@ -9,15 +9,17 @@
       </div>
       <Miels />
       <AutresProduits />
+      <Livraison />
     </div>
   </section>
 </template>
 <script>
 import Miels from './Miels.vue'
 import AutresProduits from './AutresProduits.vue'
+import Livraison from './Livraison.vue'
 
 export default {
   name: 'Boutique',
-  components: { AutresProduits, Miels },
+  components: { Livraison, AutresProduits, Miels },
 }
 </script>
