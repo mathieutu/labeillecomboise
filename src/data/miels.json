@@ -22,6 +22,7 @@
     "titre": "Miel de Tilleul",
     "provenance": "Pays de Chautagne",
     "prix": 8.00,
+    "plusEnStock": true,
     "description": "Ce miel surprenant à teinte jaune a également ses amateurs puisque l’odeur qu’il dégage ainsi que son goût sont mentholés. Idéal pour sucrer sa tisane (attention, attendre que la tisane soit à température buvable avant d'ajouter le miel sans quoi celui-ci perdra ses propriétés !)",
     "color": "#61827b",
     "img": "tilleul.jpg",
@@ -68,7 +69,7 @@
   {
     "titre": "Miel de Haute Montagne",
     "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
-    "prix": 9.00,
+    "prix": 9.50,
     "plusEnStock": true,
     "description": "Ce miel aux arômes riches et rares étonnera agréablement le palais. Il est issu de ruches butinant au-delà de 1200m d’altitude, et entourées d'alpages. ",
     "color": "#285b8a",
