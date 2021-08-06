@@ -53,6 +53,7 @@
     "titre": "Miel de Forêt \"2020\"",
     "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
     "prix": 8.00,
+    "plusEnStock": true,
     "description": "Ce miel est le plus corsé de la gamme cette année. Un alliage équilibré entre le miellat d'épicéa et la fine amertume du chataîgnier.",
     "color": "#486455",
     "img": "foret-2020.jpg",
