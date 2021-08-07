@@ -37,7 +37,7 @@
     "color": "#653200",
     "img": "chataignier50k.jpg",
     "quantite": "500g",
-    "masquer": true
+    "masquer": false
   },
   {
     "titre": "Miel de Forêt \"2019\"",
