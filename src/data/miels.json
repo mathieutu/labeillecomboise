@@ -2,95 +2,93 @@
   "title": "Mes Miels",
   "description": "Attaché à ma région, mes ruchers se situent jusqu'à une heure autour de mon exploitation, en prenant soin de selectionner des secteurs les plus purs possibles. Je transhume mes ruches au gré des saisons et des floraisons, d'avril à juillet, afin de vous offrir des miels variés et de qualité.",
   "list": [
-  {
-    "titre": "Miel d'Acacia",
-    "provenance": "Pays d’Entrelacs",
-    "prix": 8.50,
-    "rupture": true,
-    "description": "Ce miel jaune clair, au goût léger et doux, reste liquide très longtemps s’il est pur. Apprécié des enfants, il peut être utilisé pour agrémenter plats et desserts.",
-    "color": "#a6a623",
-    "quantite": "500g",
-    "img": "/img/produits/acacia.jpg"
-  },
-  {
-    "titre": "Miel de Fleurs",
-    "provenance": "Pays d’Entrelacs",
-    "prix": 7.00,
-    "description": "Ce miel lumineux et sucré est issu de la première récolte de la saison. Issu essentiellement du nectar de Pissenlit et d’Acacia, il est souvent considéré comme une valeur sûre. Il restera liquide longtemps.",
-    "color": "#ad9866",
-    "quantite": "500g",
-    "img": "/img/produits/fleurs.jpg"
-  },
-  {
-    "titre": "Miel de Tilleul",
-    "provenance": "Pays de Chautagne",
-    "prix": 8.00,
-    "rupture": true,
-    "description": "Ce miel surprenant à teinte jaune a également ses amateurs puisque l’odeur qu’il dégage ainsi que son goût sont mentholés. Idéal pour sucrer sa tisane (attention, attendre que la tisane soit à température buvable avant d'ajouter le miel sans quoi celui-ci perdra ses propriétés !)",
-    "color": "#61827b",
-    "img": "/img/produits/tilleul.jpg",
-    "quantite": "500g"
-  },
-  {
-    "titre": "Miel de Châtaignier",
-    "provenance": "Pays de Chautagne",
-    "prix": 9.00,
-    "rupture": false,
-    "description": "Ce miel foncé au goût corsé et amer est très prisé de certains. Il peut être une alternative au miel d’Acacia pour agrémenter les pâtisseries, tel que les fameux pains d’épices.",
-    "color": "#653200",
-    "img": "/img/produits/chataignier50k.jpg",
-    "quantite": "500g",
-    "hide": false
-  },
-  {
-    "titre": "Miel de Forêt \"2019\"",
-    "provenance": "Pays de Chautagne",
-    "prix": 8.00,
-    "rupture": true,
-    "description": "Clair et cristallisé finement, son goût subtil et agréable est le mariage des miels du Châtaignier et du Tilleul, présents dans la même forêt. Une édition limitée !",
-    "color": "#194018",
-    "img": "/img/produits/foret-2019.jpg",
-    "quantite": "500g"
-  },
-  {
-    "titre": "Miel de Forêt \"2020\"",
-    "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
-    "prix": 8.00,
-    "rupture": true,
-    "description": "Ce miel est le plus corsé de la gamme cette année. Un alliage équilibré entre le miellat d'épicéa et la fine amertume du chataîgnier.",
-    "color": "#486455",
-    "img": "/img/produits/foret-2020.jpg",
-    "quantite": "500g"
-  },
-  {
-    "titre": "Miel de Montagne",
-    "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
-    "prix": 8.50,
-    "description": "Ce miel au goût caramélisé rassemble les nectars des prairies baujues. Si la saison est propice, du miellat peut également être butiné. C’est la dernière récolte de l’année, où la population de la colonie est à son apogée.",
-    "color": "#6e8760",
-    "quantite": "500g",
-    "img": "/img/produits/montagne.jpg"
-  },
-  {
-    "titre": "Miel de Haute Montagne",
-    "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
-    "prix": 9.50,
-    "rupture": true,
-    "description": "Ce miel aux arômes riches et rares étonnera agréablement le palais. Il est issu de ruches butinant au-delà de 1200m d’altitude, et entourées d'alpages. ",
-    "color": "#285b8a",
-    "img": "/img/produits/haute-montagne.jpg",
-    "quantite": "500g"
-  },
-  {
-    "titre": "Un autre miel",
-    "provenance": "qui est masqué pour le moment avec l'option 'hide'. Ça permet de ne pas l'afficher, sans le supprimer.",
-    "prix": 9.00,
-    "rupture": true,
-    "description": "Un miel fort en bouche, qui Nulla quam felis, enim faucibus proin velit, ornare id pretium. Augue ultrices sed arcu condimentum vestibulum suspendisse.",
-    "color": "#653200",
-    "img": "/img/produits/chataignier.jpg",
-    "quantite": "500g",
-    "hide": true
-  }
-]
+    {
+      "rupture": true,
+      "provenance": "Pays d’Entrelacs",
+      "hide": false,
+      "color": "#a6a623",
+      "img": "/img/produits/acacia.jpg",
+      "prix": 8.5,
+      "titre": "Miel d'Acacia",
+      "quantite": "500g",
+      "description": "Ce miel jaune clair, au goût léger et doux, reste liquide très longtemps s’il est pur. Apprécié des enfants, il peut être utilisé pour agrémenter plats et desserts."
+    },
+    {
+      "rupture": false,
+      "provenance": "Pays d’Entrelacs",
+      "hide": false,
+      "color": "#ad9866",
+      "img": "/img/produits/fleurs.jpg",
+      "prix": 7,
+      "titre": "Miel de Fleurs",
+      "quantite": "500g",
+      "description": "Ce miel lumineux et sucré est issu de la première récolte de la saison. Issu essentiellement du nectar de Pissenlit et d’Acacia, il est souvent considéré comme une valeur sûre. Il restera liquide longtemps."
+    },
+    {
+      "rupture": true,
+      "provenance": "Pays de Chautagne",
+      "hide": false,
+      "color": "#61827b",
+      "img": "/img/produits/tilleul.jpg",
+      "prix": 8,
+      "titre": "Miel de Tilleul",
+      "quantite": "500g",
+      "description": "Ce miel surprenant à teinte jaune a également ses amateurs puisque l’odeur qu’il dégage ainsi que son goût sont mentholés. Idéal pour sucrer sa tisane (attention, attendre que la tisane soit à température buvable avant d'ajouter le miel sans quoi celui-ci perdra ses propriétés !)"
+    },
+    {
+      "rupture": false,
+      "provenance": "Pays de Chautagne",
+      "hide": false,
+      "color": "#653200",
+      "img": "/img/produits/chataignier50k.jpg",
+      "prix": 9,
+      "titre": "Miel de Châtaignier",
+      "quantite": "500g",
+      "description": "Ce miel foncé au goût corsé et amer est très prisé de certains. Il peut être une alternative au miel d’Acacia pour agrémenter les pâtisseries, tel que les fameux pains d’épices."
+    },
+    {
+      "rupture": true,
+      "provenance": "Pays de Chautagne",
+      "hide": false,
+      "color": "#194018",
+      "img": "/img/produits/foret-2019.jpg",
+      "prix": 8,
+      "titre": "Miel de Forêt \"2019\"",
+      "quantite": "500g",
+      "description": "Clair et cristallisé finement, son goût subtil et agréable est le mariage des miels du Châtaignier et du Tilleul, présents dans la même forêt. Une édition limitée !"
+    },
+    {
+      "rupture": true,
+      "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
+      "hide": false,
+      "color": "#486455",
+      "img": "/img/produits/foret-2020.jpg",
+      "prix": 8,
+      "titre": "Miel de Forêt \"2020\"",
+      "quantite": "500g",
+      "description": "Ce miel est le plus corsé de la gamme cette année. Un alliage équilibré entre le miellat d'épicéa et la fine amertume du chataîgnier."
+    },
+    {
+      "rupture": false,
+      "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
+      "hide": false,
+      "color": "#6e8760",
+      "img": "/img/produits/montagne.jpg",
+      "prix": 8.5,
+      "titre": "Miel de Montagne",
+      "quantite": "500g",
+      "description": "Ce miel au goût caramélisé rassemble les nectars des prairies baujues. Si la saison est propice, du miellat peut également être butiné. C’est la dernière récolte de l’année, où la population de la colonie est à son apogée."
+    },
+    {
+      "rupture": true,
+      "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
+      "hide": false,
+      "color": "#285b8a",
+      "img": "/img/produits/haute-montagne.jpg",
+      "prix": 9.5,
+      "titre": "Miel de Haute Montagne",
+      "quantite": "500g",
+      "description": "Ce miel aux arômes riches et rares étonnera agréablement le palais. Il est issu de ruches butinant au-delà de 1200m d’altitude, et entourées d'alpages. "
+    }
+  ]
 }
