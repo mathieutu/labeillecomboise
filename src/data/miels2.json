@@ -1,0 +1,15 @@
+{
+  "list": [
+    {
+      "rupture": false,
+      "provenance": "Pays d’Entrelacs",
+      "hide": false,
+      "color": "#a6a623",
+      "img": "/images/uploads/acacia.jpg",
+      "prix": 1,
+      "titre": "Miel d'Acacia",
+      "quantite": "500g",
+      "description": "Ce miel jaune clair, au goût léger et doux, reste liquide très longtemps s’il est pur. Apprécié des enfants, il peut être utilisé pour agrémenter plats et desserts."
+    }
+  ]
+}
