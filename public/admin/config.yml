@@ -1,0 +1,35 @@
+backend:
+  name: github
+  repo: mathieutu/labeillecomboise
+  branch: main
+publish_mode: editorial_workflow
+media_folder: "public/img/produits"
+public_folder: "/img/produits"
+collections:
+  - label: "Produits"
+    name: "produits"
+    files:
+    - name: "miels"
+      label: "Miels"
+      label_singular: "Miel"
+      file: "src/data/miels.json"
+      create: true
+      delete: true
+      fields:
+        - label: Description
+          name: description
+          widget: string
+
+        - label: Miel
+          name: list
+          widget: list
+          fields:
+            - { label: "Titre", name: "titre", widget: "string" }
+            - { label: "Provenance", name: "provenance", widget: "string" }
+            - { label: "Prix", name: "prix", widget: "number", value_type: "float", step: 0.01 }
+            - { label: "Rupture de stock", name: "rupture", widget: "boolean", default: false }
+            - { label: "Description", name: "description", widget: "text" }
+            - { label: 'Couleur', name: 'color', widget: 'color', allowInput: true }
+            - { label: "Quantité", name: "quantite", widget: "string", default: "500g"}
+            - { label: "Image", name: "img", widget: "image", allow_multiple: false }
+            - { label: "Masquer", name: "hide", widget: "boolean", default: false }
