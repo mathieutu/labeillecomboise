@@ -104,7 +104,7 @@
               <div class="relative mt-1 rounded-md shadow-sm">
                 <input
                   id="nom"
-                  class="block w-full transition duration-150 ease-in-out form-input sm:text-sm sm:leading-5"
+                  class="block w-full border-gray-300 rounded-md focus:border-red-300 focus:ring focus:ring-red-200 focus:ring-opacity-50 sm:text-sm sm:leading-5"
                   name="nom"
                   required
                   type="text"
@@ -117,7 +117,7 @@
                 <div class="relative mt-1 rounded-md shadow-sm">
                   <input
                     id="email"
-                    class="block w-full transition duration-150 ease-in-out form-input sm:text-sm sm:leading-5"
+                    class="block w-full border-gray-300 rounded-md focus:border-red-300 focus:ring focus:ring-red-200 focus:ring-opacity-50 sm:text-sm sm:leading-5"
                     name="email"
                     type="email"
                   >
@@ -128,7 +128,7 @@
                 <div class="relative mt-1 rounded-md shadow-sm">
                   <input
                     id="tel"
-                    class="block w-full transition duration-150 ease-in-out form-input sm:text-sm sm:leading-5"
+                    class="block w-full border-gray-300 rounded-md focus:border-red-300 focus:ring focus:ring-red-200 focus:ring-opacity-50 sm:text-sm sm:leading-5"
                     name="tel"
                     type="tel"
                   >
@@ -140,7 +140,7 @@
               <div class="relative mt-1 rounded-md shadow-sm">
                 <textarea
                   id="message"
-                  class="block w-full transition duration-150 ease-in-out form-input sm:text-sm sm:leading-5"
+                  class="block w-full border-gray-300 rounded-md focus:border-red-300 focus:ring focus:ring-red-200 focus:ring-opacity-50 sm:text-sm sm:leading-5"
                   name="message"
                   required
                   rows="4"
