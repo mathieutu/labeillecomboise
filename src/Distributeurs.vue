@@ -10,7 +10,7 @@
         />
       </div>
       <div class="relative px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
-        <div class="grid gap-12 row-gap-8 lg:grid-cols-2">
+        <div class="grid gap-12 gap-y-8 lg:grid-cols-2">
           <ul class="grid gap-2 sm:grid-cols-2">
             <li
               v-for="(distributeur, i) in distributeurs"
@@ -19,7 +19,7 @@
                 'bg-orange-100 border-orange-200': distributeurIndex.clicked === i,
                 'bg-orange-50 border-orange-100': distributeurIndex.hovered === i,
               }"
-              class="rounded pl-3 py-2 border border-transparent"
+              class="cursor-pointer rounded pl-3 py-2 border border-transparent"
               @click="handleDistributeurSelection('click', i)"
               @mouseleave="handleDistributeurSelection('blur', i)"
               @mouseover="handleDistributeurSelection('hover', i)"
