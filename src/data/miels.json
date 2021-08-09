@@ -30,14 +30,14 @@
   },
   {
     "titre": "Miel de Châtaignier",
-    "provenance": "Massif des Bauges",
+    "provenance": "Pays de Chautagne",
     "prix": 9.00,
-    "plusEnStock": true,
+    "plusEnStock": false,
     "description": "Ce miel foncé au goût corsé et amer est très prisé de certains. Il peut être une alternative au miel d’Acacia pour agrémenter les pâtisseries, tel que les fameux pains d’épices.",
     "color": "#653200",
-    "img": "chataignier.jpg",
+    "img": "chataignier50k.jpg",
     "quantite": "500g",
-    "masquer": true
+    "masquer": false
   },
   {
     "titre": "Miel de Forêt \"2019\"",
