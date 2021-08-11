@@ -69,7 +69,7 @@
       "description": "Ce miel est le plus corsé de la gamme cette année. Un alliage équilibré entre le miellat d'épicéa et la fine amertume du chataîgnier."
     },
     {
-      "rupture": false,
+      "rupture": true,
       "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
       "hide": false,
       "color": "#6e8760",
