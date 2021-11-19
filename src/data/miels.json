@@ -14,7 +14,7 @@
       "description": "Ce miel jaune clair, au goût léger et doux, reste liquide très longtemps s’il est pur. Apprécié des enfants, il peut être utilisé pour agrémenter plats et desserts."
     },
     {
-      "rupture": false,
+      "rupture": true,
       "provenance": "Pays d’Entrelacs",
       "hide": false,
       "color": "#ad9866",
