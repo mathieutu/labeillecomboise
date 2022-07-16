@@ -69,12 +69,12 @@
       "description": "Ce miel est le plus corsé de la gamme cette année. Un alliage équilibré entre le miellat d'épicéa et la fine amertume du chataîgnier."
     },
     {
-      "rupture": true,
+      "rupture": false,
       "provenance": "Géoparc mondial UNESCO du Massif des Bauges",
       "hide": false,
       "color": "#6e8760",
       "img": "/img/produits/montagne.jpg",
-      "prix": 8.5,
+      "prix": 8.49,
       "titre": "Miel de Montagne",
       "quantite": "500g",
       "description": "Ce miel au goût caramélisé rassemble les nectars des prairies baujues. Si la saison est propice, du miellat peut également être butiné. C’est la dernière récolte de l’année, où la population de la colonie est à son apogée."
