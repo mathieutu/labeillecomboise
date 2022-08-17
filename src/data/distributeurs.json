@@ -44,6 +44,28 @@
     ]
   },
   {
+    "nom":"Carrefour Contact",
+    "url":"https://www.carrefour.fr/magasin/contact-le-chatelard",
+    "tel":"04 79 88 08 80",
+    "adresse":"Avenue Denis Therme, 73360 Le Chatelard",
+    "horaires":"ouvert tous les jours",
+    "latLng":[
+      45.6886, 
+      6.1348
+    ]
+     },
+  {
+    "nom":"L'Herbier de la Clappe",
+    "url":"https://www.lherbierdelaclappe.com/",
+    "tel":"06 01 72 63 55",
+    "adresse":"Chef Lieu,2211 route du Noyer, 73340 Le Noyer",
+    "horaires":"Lundi, mercredi et vendredi et sur RDV",
+    "latLng":[
+    45.67964, 
+    6.06263
+    ]
+  },
+    {
     "nom":"Nom de la vendeuse",
     "adresse":"Place du Marché, 71250 Cluny",
     "horaires":"le samedi matin",
@@ -55,12 +77,12 @@
   },
   {
     "nom":"Nom de la vendeuse",
-    "adresse":"Marché de Annecy le vieux",
+    "adresse":"Place du Marché, 71250 Cluny",
     "horaires":"le samedi matin",
     "latLng":[
-      45.919029,
-      6.142850
+      46.4349,
+      4.65705
     ],
     "masquer": true
-  }
+  },
 ]
