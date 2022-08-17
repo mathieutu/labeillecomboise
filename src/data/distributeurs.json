@@ -1,88 +1,77 @@
 [
   {
-    "nom":"Épicerie de la poste",
-    "adresse":"65 Place de la Mairie, 74320 Sévrier",
-    "tel":"04 50 23 79 01",
-    "horaires":"Ouvert du Mardi au Samedi",
-    "latLng":[
+    "nom": "Épicerie de la poste",
+    "adresse": "65 Place de la Mairie, 74320 Sévrier",
+    "tel": "04 50 23 79 01",
+    "horaires": "Ouvert du Mardi au Samedi",
+    "latLng": [
       45.8639,
       6.14104
     ]
   },
   {
-    "nom":"L'abeille Comboise",
-    "url":"/",
-    "adresse":"407 chemin du Solliet, 73340 Bellecombe-en-Bauges",
-    "tel":"06 68 96 93 88",
-    "horaires":"sur rendez-vous",
-    "latLng":[
+    "nom": "L'abeille Comboise",
+    "url": "/",
+    "adresse": "407 chemin du Solliet, 73340 Bellecombe-en-Bauges",
+    "tel": "06 68 96 93 88",
+    "horaires": "sur rendez-vous",
+    "latLng": [
       45.739602,
       6.159008
     ]
   },
   {
-    "nom":"Les douceurs des Bauges",
-    "url":"https://www.lesdouceursdesbauges.com/",
-    "tel":"07 67 12 04 28",
-    "adresse":"1133 Route de Leschaux, 73340 Bellecombe-en-Bauges",
-    "horaires":"du Mardi au Dimanche",
-    "latLng":[
+    "nom": "Les douceurs des Bauges",
+    "url": "https://www.lesdouceursdesbauges.com/",
+    "tel": "07 67 12 04 28",
+    "adresse": "1133 Route de Leschaux, 73340 Bellecombe-en-Bauges",
+    "horaires": "du Mardi au Dimanche",
+    "latLng": [
       45.744541,
       6.134010
-
     ]
   },
   {
-    "nom":"Le Petit Local",
+    "nom": "Le Petit Local",
     "url": "https://www.facebook.com/BreletPatricketCatherine",
-    "tel":"09 87 76 02 59",
-    "adresse":"Place Jean Moulin, 73340 Lescheraines",
-    "horaires":"du Mardi au Dimanche",
-    "latLng":[
+    "tel": "09 87 76 02 59",
+    "adresse": "Place Jean Moulin, 73340 Lescheraines",
+    "horaires": "du Mardi au Dimanche",
+    "latLng": [
       45.713820,
       6.105060
     ]
   },
   {
-    "nom":"Carrefour Contact",
-    "url":"https://www.carrefour.fr/magasin/contact-le-chatelard",
-    "tel":"04 79 88 08 80",
-    "adresse":"Avenue Denis Therme, 73360 Le Chatelard",
-    "horaires":"ouvert tous les jours",
-    "latLng":[
-      45.6886, 
+    "nom": "Carrefour Contact",
+    "url": "https://www.carrefour.fr/magasin/contact-le-chatelard",
+    "tel": "04 79 88 08 80",
+    "adresse": "Avenue Denis Therme, 73360 Le Chatelard",
+    "horaires": "ouvert tous les jours",
+    "latLng": [
+      45.6886,
       6.1348
     ]
-     },
+  },
   {
-    "nom":"L'Herbier de la Clappe",
-    "url":"https://www.lherbierdelaclappe.com/",
-    "tel":"06 01 72 63 55",
-    "adresse":"Chef Lieu,2211 route du Noyer, 73340 Le Noyer",
-    "horaires":"Lundi, mercredi et vendredi et sur RDV",
-    "latLng":[
-    45.67964, 
-    6.06263
+    "nom": "L'Herbier de la Clappe",
+    "url": "https://www.lherbierdelaclappe.com/",
+    "tel": "06 01 72 63 55",
+    "adresse": "Chef Lieu,2211 route du Noyer, 73340 Le Noyer",
+    "horaires": "Lundi, mercredi et vendredi et sur RDV",
+    "latLng": [
+      45.67964,
+      6.06263
     ]
   },
-    {
-    "nom":"Nom de la vendeuse",
-    "adresse":"Place du Marché, 71250 Cluny",
-    "horaires":"le samedi matin",
-    "latLng":[
-      46.4349,
-      4.65705
-    ],
-    "masquer": true
-  },
   {
-    "nom":"Nom de la vendeuse",
-    "adresse":"Place du Marché, 71250 Cluny",
-    "horaires":"le samedi matin",
-    "latLng":[
+    "nom": "Nom de la vendeuse",
+    "adresse": "Place du Marché, 71250 Cluny",
+    "horaires": "le samedi matin",
+    "latLng": [
       46.4349,
       4.65705
     ],
     "masquer": true
-  },
+  }
 ]
