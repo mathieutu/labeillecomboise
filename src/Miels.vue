@@ -16,20 +16,8 @@
             :id="miel.id"
             :key="miel.id"
           >
-            <button
+            <div
               class="group block text-left space-y-4 rounded-lg border-transparent border p-3"
-              :disabled="miel.rupture"
-              :class="miel.rupture ? 'cursor-not-allowed' : 'snipcart-add-item hover:border-gray-300 hover:bg-gray-200'"
-              :data-item-id="miel.id"
-              :data-item-price="miel.prix"
-              data-item-url="/"
-              :data-item-name="miel.titre"
-              :data-item-description="miel.description"
-              :data-item-image="miel.img"
-              :data-item-weight="miel.quantite.replace('g', '')"
-              data-item-custom1-name="Provenance"
-              data-item-custom1-type="readonly"
-              :data-item-custom1-value="miel.provenance"
             >
               <div class="relative pb-full">
                 <img
@@ -40,15 +28,9 @@
                 >
                 <span
                   v-if="miel.rupture"
-                  class="absolute bottom-0 right-0 px-2 py-px m-2 text-sm font-semibold text-red-800 bg-white rounded"
+                  class="absolute bottom-0 right-0 px-2 py-px m-2 text-xs font-light text-gray-400 bg-white rounded"
                 >
                   Victime de son succès
-                </span>
-                <span
-                  v-else
-                  class="absolute bottom-0 right-0 px-2 py-px m-2 text-sm font-semibold text-gray-700 bg-white rounded hidden group-hover:block"
-                >
-                  Ajouter au panier
                 </span>
               </div>
               <div :class="{'opacity-50': miel.rupture}">
@@ -69,7 +51,7 @@
                   {{ miel.description }}
                 </p>
               </div>
-            </button>
+            </div>
           </li>
         </ul>
       </div>
